@@ -1,0 +1,17 @@
+{
+  "name": "single-node-todo-page-shay",
+  "version": "0.0.1",
+  "description": "Todo simple application.",
+  "main": "server.js",
+  "repository": "",
+  "author": "Shayron Aguiar <shayron.aguiar@gmail.com>",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "method-override": "^2.1.3",
+    "mongoose": "^4.4.12",
+    "morgan": "^1.1.1",
+    "socket.io": "~0.9.14"
+  }
+}
